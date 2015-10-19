@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <config>
     <modules>
-        <Fonix_CustomAddress>
+        <Dmrch_CustomAddress>
             <active>true</active>
             <codePool>local</codePool>
-        </Fonix_CustomAddress>
+        </Dmrch_CustomAddress>
     </modules>
 </config>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
     <modules>
-        <Fonix_CustomAddress>
+        <Dmrch_CustomAddress>
             <version>1.0.0</version>
-        </Fonix_CustomAddress>
+        </Dmrch_CustomAddress>
     </modules>
     <admin>
         <fieldsets>
@@ -23,13 +23,13 @@
     <global>
         <models>
             <custom_address>
-                <class>Fonix_CustomAddress_Model</class>
+                <class>Dmrch_CustomAddress_Model</class>
             </custom_address>
         </models>
         <resources>
             <custom_address_setup>
                 <setup>
-                    <module>Fonix_CustomAddress</module>
+                    <module>Dmrch_CustomAddress</module>
                 </setup>
                 <connection>
                     <use>core_setup</use>
